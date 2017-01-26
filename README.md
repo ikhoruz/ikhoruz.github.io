@@ -1,2 +1,2 @@
 # ikhoruz.github.io
-none
+duh.

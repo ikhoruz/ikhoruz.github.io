@@ -2,6 +2,10 @@ a
 {
   color: #350a93;
 }
+p
+{
+   margin-bottom:1em;
+}
 #home {
   margin: 0 auto;
   max-width: 60em;

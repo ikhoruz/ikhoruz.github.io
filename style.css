@@ -66,6 +66,12 @@ p
 float:right;
 margin-left:1.7em;
 }
+#text-verge
+{
+  font-family: 'Lato', sans-serif;
+  font-size:1.2em;
+  margin-bottom:8em;
+}
 #text
 {
   font-family: 'Lato', sans-serif;
@@ -77,17 +83,7 @@ margin-left:1.7em;
   font-size:1.6em;
 }
 
-
-
-/*code,pre {
-  background: #eee;
+#foot
+{
+  margin-top:31em;
 }
-
-code {
-  padding: 2px 4px;
-  vertical-align: text-bottom;
-}
-
-pre {
-  padding: 1em;
-}*/

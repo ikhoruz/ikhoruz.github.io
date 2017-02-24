@@ -4,7 +4,7 @@ a
 }
 p
 {
-   margin-bottom:1em;
+  margin-bottom:1em;
 }
 #home {
   margin: 0 auto;
@@ -70,7 +70,7 @@ margin-left:1.7em;
 {
   font-family: 'Lato', sans-serif;
   font-size:1.2em;
-  margin-bottom:12em;
+  margin-bottom:8em;
 }
 #text
 {
@@ -85,5 +85,11 @@ margin-left:1.7em;
 
 #footsy
 {
-  margin-top:61em;
+  margin-top:28em;
+}
+#text-a
+{
+  margin-bottom:1.5em;
+  font-family: 'Lato', sans-serif;
+  font-size:1.2em;
 }

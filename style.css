@@ -11,7 +11,7 @@ p
   max-width: 60em;
   line-height: 1.5;
   padding: 4em 1em;
-  color: #555
+  color: #222b3a
 }
 
 #top-header
@@ -86,6 +86,7 @@ margin-left:1.7em;
 #footsy
 {
   margin-top:28em;
+  font-family: 'Lato', sans-serif;
 }
 #text-a
 {
